@@ -1,0 +1,85 @@
+Crop,Season,Year,MSP(Rs/Qtl),Absolute change,% change
+Bajra,Kharif,2013,1250.0,1250.0,0.0
+Bajra,Kharif,2014,1250.0,0.0,0.0
+Bajra,Kharif,2015,1275.0,25.0,2.0
+Bajra,Kharif,2016,1330.0,55.0,4.31
+Bajra,Kharif,2017,1425.0,95.0,7.14
+Bajra,Kharif,2018,1950.0,525.0,36.84
+Bajra,Kharif,2019,2000.0,50.0,2.56
+Bajra,Kharif,2020,2150.0,150.0,7.5
+Bajra,Kharif,2021,2250.0,100.0,4.65
+Bajra,Kharif,2022,2350.0,100.0,4.44
+Bajra,Kharif,2023,2500.0,150.0,6.38
+Bajra,Kharif,2024,2625.0,125.0,5.0
+Jowar-Hybrid,Kharif,2013,1500.0,1530.0,30.0
+Jowar-Hybrid,Kharif,2014,1530.0,30.0,2.0
+Jowar-Hybrid,Kharif,2015,1570.0,40.0,2.61
+Jowar-Hybrid,Kharif,2016,1625.0,55.0,3.5
+Jowar-Hybrid,Kharif,2017,1700.0,75.0,4.62
+Jowar-Hybrid,Kharif,2018,2430.0,730.0,42.94
+Jowar-Hybrid,Kharif,2019,2550.0,120.0,4.94
+Jowar-Hybrid,Kharif,2020,2620.0,70.0,2.75
+Jowar-Hybrid,Kharif,2021,2738.0,118.0,4.5
+Jowar-Hybrid,Kharif,2022,2970.0,232.0,8.47
+Jowar-Hybrid,Kharif,2023,3180.0,210.0,7.07
+Jowar-Hybrid,Kharif,2024,3371.0,191.0,6.01
+Jowar-Maldandi,Kharif,2013,1520.0,1550.0,30.0
+Jowar-Maldandi,Kharif,2014,1550.0,30.0,1.97
+Jowar-Maldandi,Kharif,2015,1590.0,40.0,2.58
+Jowar-Maldandi,Kharif,2016,1650.0,60.0,3.77
+Jowar-Maldandi,Kharif,2017,1725.0,75.0,4.55
+Jowar-Maldandi,Kharif,2018,2450.0,725.0,42.03
+Jowar-Maldandi,Kharif,2019,2570.0,120.0,4.9
+Jowar-Maldandi,Kharif,2020,2640.0,70.0,2.72
+Jowar-Maldandi,Kharif,2021,2758.0,118.0,4.47
+Jowar-Maldandi,Kharif,2022,2990.0,232.0,8.41
+Jowar-Maldandi,Kharif,2023,3225.0,235.0,7.86
+Jowar-Maldandi,Kharif,2024,3421.0,196.0,6.08
+Paddy(F)/Grade'A',Kharif,2013,1345.0,1400.0,55.0
+Paddy(F)/Grade'A',Kharif,2014,1400.0,55.0,4.09
+Paddy(F)/Grade'A',Kharif,2015,1450.0,50.0,3.57
+Paddy(F)/Grade'A',Kharif,2016,1510.0,60.0,4.14
+Paddy(F)/Grade'A',Kharif,2017,1590.0,80.0,5.3
+Paddy(F)/Grade'A',Kharif,2018,1770.0,180.0,11.32
+Paddy(F)/Grade'A',Kharif,2019,1835.0,65.0,3.67
+Paddy(F)/Grade'A',Kharif,2020,1888.0,53.0,2.89
+Paddy(F)/Grade'A',Kharif,2021,1960.0,72.0,3.81
+Paddy(F)/Grade'A',Kharif,2022,2060.0,100.0,5.1
+Paddy(F)/Grade'A',Kharif,2023,2203.0,143.0,6.94
+Paddy(F)/Grade'A',Kharif,2024,2320.0,117.0,5.31
+Ragi,Kharif,2013,1500.0,1550.0,50.0
+Ragi,Kharif,2014,1550.0,50.0,3.33
+Ragi,Kharif,2015,1650.0,100.0,6.45
+Ragi,Kharif,2016,1725.0,75.0,4.55
+Ragi,Kharif,2017,1900.0,175.0,10.14
+Ragi,Kharif,2018,2897.0,997.0,52.47
+Ragi,Kharif,2019,3150.0,253.0,8.73
+Ragi,Kharif,2020,3295.0,145.0,4.6
+Ragi,Kharif,2021,3377.0,82.0,2.49
+Ragi,Kharif,2022,3578.0,201.0,5.95
+Ragi,Kharif,2023,3846.0,268.0,7.49
+Ragi,Kharif,2024,4290.0,444.0,11.54
+Wheat,Rabi,2013,1400.0,1450.0,50.0
+Wheat,Rabi,2014,1450.0,50.0,3.57
+Wheat,Rabi,2015,1525.0,75.0,5.17
+Wheat,Rabi,2016,1625.0,100.0,6.56
+Wheat,Rabi,2017,1735.0,110.0,6.77
+Wheat,Rabi,2018,1840.0,105.0,6.05
+Wheat,Rabi,2019,1925.0,85.0,4.62
+Wheat,Rabi,2020,1975.0,50.0,2.6
+Wheat,Rabi,2021,2015.0,40.0,2.03
+Wheat,Rabi,2022,2125.0,110.0,5.46
+Wheat,Rabi,2023,2275.0,150.0,7.06
+Wheat,Rabi,2024,2425.0,150.0,6.59
+Paddy Common,Kharif,2013,,1360.0,
+Paddy Common,Kharif,2014,1360.0,,
+Paddy Common,Kharif,2015,1410.0,50.0,3.68
+Paddy Common,Kharif,2016,1470.0,60.0,4.26
+Paddy Common,Kharif,2017,1550.0,80.0,5.44
+Paddy Common,Kharif,2018,1750.0,200.0,12.9
+Paddy Common,Kharif,2019,1815.0,65.0,3.71
+Paddy Common,Kharif,2020,1868.0,53.0,2.92
+Paddy Common,Kharif,2021,1940.0,72.0,3.85
+Paddy Common,Kharif,2022,2040.0,100.0,5.15
+Paddy Common,Kharif,2023,2183.0,143.0,7.01
+Paddy Common,Kharif,2024,2300.0,117.0,5.36
